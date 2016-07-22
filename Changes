@@ -1,5 +1,10 @@
 Revision history for Sah-Schemas-Examples
 
+0.004   2016-07-22 (PERLANCAR)
+
+        - [build] Rebuild to generate Sah::SchemaR::* modules.
+
+
 0.003   2016-07-20 (PERLANCAR)
 
         - Add schema: schema::array_of_str.
