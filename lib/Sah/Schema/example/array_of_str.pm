@@ -10,3 +10,7 @@ our $schema = [array => {
 
 1;
 # ABSTRACT:
+
+=head1 DESCRIPTION
+
+Deprecated, see L<Sah::Schema::aos>.
