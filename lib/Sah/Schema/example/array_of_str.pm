@@ -5,7 +5,7 @@ package Sah::Schema::example::array_of_str;
 
 our $schema = [array => {
     summary => 'Array of string',
-    of => ["str", {}, {}],
+    of => ["str", {req=>1}, {}],
 }, {}];
 
 1;
