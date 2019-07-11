@@ -1,15 +1,15 @@
-0.005   2016-12-09 (PERLANCAR)
+0.005   2016-12-09  Released-By: PERLANCAR
 
         - Add schemas: example::hash_of_str,
           example::{array,hash}_of_{int,posint}.
 
 
-0.004   2016-07-22 (PERLANCAR)
+0.004   2016-07-22  Released-By: PERLANCAR
 
         - [build] Rebuild to generate Sah::SchemaR::* modules.
 
 
-0.003   2016-07-20 (PERLANCAR)
+0.003   2016-07-20  Released-By: PERLANCAR
 
         - Add schema: example::array_of_str.
 
@@ -17,11 +17,11 @@
           used Sah::Schema::* modules.
 
 
-0.002   2016-07-19 (PERLANCAR)
+0.002   2016-07-19  Released-By: PERLANCAR
 
 	- Add schema: example::has_merge.
 
 
-0.001   2016-07-19 (PERLANCAR)
+0.001   2016-07-19  Released-By: PERLANCAR
 
         - First release.
