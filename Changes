@@ -1,3 +1,10 @@
+0.006   2020-05-27  Released-By: PERLANCAR; Urgency: low
+
+	- No functional changes.
+
+	- Add some examples (tests).
+
+
 0.005   2016-12-09  Released-By: PERLANCAR
 
         - Add schemas: example::hash_of_str,
