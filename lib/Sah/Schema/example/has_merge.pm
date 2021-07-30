@@ -18,7 +18,7 @@ schema would become "positive even integer."
 _
     'merge.delete.min' => undef,
     div_by => 2,
-}, {}];
+}];
 
 1;
 # ABSTRACT:

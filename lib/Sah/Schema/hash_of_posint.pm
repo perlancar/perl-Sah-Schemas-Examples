@@ -1,12 +1,14 @@
 package Sah::Schema::example::hash_of_posint;
 
+# AUTHORITY
 # DATE
+# DIST
 # VERSION
 
 our $schema = [hash => {
     summary => 'Hash of positive integers',
-    of => ["posint", {req=>1}, {}],
-}, {}];
+    of => ["posint", {req=>1}],
+}];
 
 1;
 # ABSTRACT:
