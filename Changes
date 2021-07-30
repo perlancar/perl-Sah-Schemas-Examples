@@ -4,7 +4,7 @@
 	  {example::,}array_of_posint, {example::,}hash_of_int,
 	  {example::,}hash_of_posint.
 
-        - Delete schemas because they are already in Sah::Schemas::Collection:
+        - Delete schemas because they are already in Sah-Schemas-Collection:
 	  example::array_of_str (there is aos).
 
         - Add alias ints for array_of_ints, posints for array_of_posint.
