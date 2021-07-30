@@ -1,4 +1,4 @@
-package Sah::Schema::example::posints;
+package Sah::Schema::posints;
 
 # AUTHORITY
 # DATE

@@ -1,4 +1,4 @@
-package Sah::Schema::example::hash_of_posint;
+package Sah::Schema::hash_of_posint;
 
 # AUTHORITY
 # DATE

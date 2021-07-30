@@ -1,4 +1,4 @@
-package Sah::Schema::example::array_of_int;
+package Sah::Schema::ints;
 
 # AUTHORITY
 # DATE
