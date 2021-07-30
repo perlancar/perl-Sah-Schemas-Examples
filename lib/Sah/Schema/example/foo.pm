@@ -7,6 +7,12 @@ package Sah::Schema::example::foo;
 
 our $schema = [str => {
     summary => 'A sample schema',
+    description => <<'_',
+
+This is just a simple schema based on `str` with no additional restriction
+clauses.
+
+_
 }];
 
 1;
