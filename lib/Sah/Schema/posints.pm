@@ -12,3 +12,12 @@ our $schema = [array => {
 
 1;
 # ABSTRACT:
+
+=head1 SEE ALSO
+
+L<Sah::Schema::array_of_posint> - alias
+
+L<Sah::Schema::posint>
+
+L<Sah::Schemas::Collection> distribution contains the schemas aos (array of
+strings), aoms (array of maybe strings), hos (hash of strings), etc.
